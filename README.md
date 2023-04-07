@@ -1,15 +1,15 @@
 # Proyecto-1-BI
 
-## Integrantes
+### Integrantes
 
 * Maria Jose Cely <br />
 * Javier Serrano  <br />
 * Alejandro González 
 
-## Profesor
+### Profesor
 
 * Fabian Peña
 
-## Video
+### Video
 
 https://youtu.be/ZBAM8kVacfM
