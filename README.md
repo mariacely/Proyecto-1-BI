@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-Maria Jose Cely <br />
-Javier Serrano  <br />
-Alejandro gonzalez 
+* Maria Jose Cely <br />
+* Javier Serrano  <br />
+* Alejandro González 
 
 ## Profesor
 
